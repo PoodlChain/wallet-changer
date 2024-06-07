@@ -1,0 +1,1 @@
+<your private key here, remove this placeholder text and replace(including the <> at start and end) with your new wallet private key>
